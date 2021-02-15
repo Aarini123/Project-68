@@ -1,0 +1,26 @@
+#videos{
+    text-align:center;
+    background-color:#ff0000 ;
+     color:#000000 ;
+     font-style:italic;
+        
+}
+#homepage{
+    text-align: center;
+    background-color:#ff0000;
+    color:#000000;
+     font-style:italic;
+    
+}
+#contact{
+    
+    text-align: center;
+    background-color:#ff0000;
+    color:#000000;
+     font-style:italic;
+
+}
+#school-img{
+    width: 500;
+    height: 200;
+}
