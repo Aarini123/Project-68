@@ -27,3 +27,6 @@
 .achievements1 i{
     float: right;
 }
+.img-modal{
+  cursor: pointer;
+}
